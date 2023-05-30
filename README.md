@@ -6,4 +6,4 @@ train-test.csv contains the data of cell count, concentration of cells, and velo
 rfr-model.sav and etr-model.sav is the trained model file using random forest regression and extra tree regression respectively, using the raw data from train-test.csv.
 
 validation-1.0-2.0.csv contains the data for validation set of 10 droplets per batch (The batch is consecutively printed. 
-The droplet velocity for droplet N in a batch for 1.0 mm and 2.0 mm from the nozzle is under the label (2N-1) and (2N) respectively.
+The droplet velocity of droplet N in a batch for 1.0 mm and 2.0 mm from the nozzle is under the label (2N-1) and (2N) respectively.
