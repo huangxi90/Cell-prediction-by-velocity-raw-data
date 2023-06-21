@@ -1,5 +1,5 @@
 # Cell-prediction-by-velocity-raw-data
-This repository contains the raw data for the paper "Predicting the number of printed cells during inkjet-based bioprinting process based on droplet velocity profile using machine learning approaches"
+This repository contains the raw data for the paper "Predicting the number of printed cells during inkjet-based bioprinting process based on droplet velocity profile using machine learning approaches" at https://doi.org/10.1007/s10845-023-02167-4
 
 train-test.csv contains the data of cell count, concentration of cells, and velocity of the printed droplet at 0.7, 1.0, 1.5, 2.0, 2.5, and 3.0 mm from the nozzles.
 
